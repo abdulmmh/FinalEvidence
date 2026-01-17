@@ -12,7 +12,9 @@
 08: Find out the Conditional Sum until input 0(zero).
 09: Find out the Odd-even number among n number of values.
 10: Calculate the number with Power.
-
+11: Write a Java program that reads a student’s marks 
+    and prints A+ for 90%, A for 70%, B for 60%,
+     otherwise fail.
 ## Tools
 - Java
 - NetBeans 8
